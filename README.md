@@ -1,4 +1,4 @@
-# 🚀 TomatoCode – Microservices Food Delivery Platform
+# 🚀 ZoomatoCode – Microservices Food Delivery Platform
 
 A scalable, Zomato-like food delivery application built using **microservices architecture**, featuring real-time order tracking, event-driven communication, and secure online payments.
 
