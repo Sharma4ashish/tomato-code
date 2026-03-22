@@ -93,8 +93,6 @@ TomatoCode is a full-stack food delivery platform designed to simulate real-worl
 
 ## 📷 Architecture Diagram
 
-> Upload your diagram inside repo (e.g. `/docs/architecture.png`) and update below path
-
 ![Architecture Diagram](./docs/initialflow.png)
 
 ---
